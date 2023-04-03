@@ -43,16 +43,7 @@ const SocialLinks = () => {
       href: resume,
       download: true,
     },
-    // {
-    //   id: 5,
-    //   child: (
-    //     <>
-    //       Twitter <FaTwitter size={30} />
-    //     </>
-    //   ),
-    //   href: "https://twitter.com/rahulkarda2002",
-    //   style: "rounded-br-md",
-    // },
+    
   ];
 
   return (
