@@ -47,13 +47,19 @@ body {
   line-height: 1.2;
 }
 
+/* bg-gradient-to-b.from-black.to-gray-800.w-full.text-white.md\:h-screen.portfolio {
+  background: red !important;
+  height: auto;
+} */
+
 .portfolio,
 .contact {
   margin-top: 8%;
+  margin-bottom: 7%;
 }
 
 .experience {
-  margin-top: 12%;
+  margin-top: 15%;
 }
 
 

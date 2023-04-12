@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "#",
+      href: "https://www.linkedin.com/in/harshada-raundal-12622025a/",
       style: "rounded-tr-md",
     },
     {
@@ -43,7 +43,7 @@ const SocialLinks = () => {
       href: resume,
       download: true,
     },
-    
+
   ];
 
   return (
